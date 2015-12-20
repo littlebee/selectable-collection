@@ -1,0 +1,30 @@
+{
+  "name": "selectable-collection",
+  "version": "0.1.0",
+  "description": "A lightweight mixin for Backbone.js collections that provides single and multi model selection",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/littlebee/selectable-collection.git"
+  },
+  "keywords": [
+    "backbone",
+    "select",
+    "light"
+  ],
+  "author": "Bee Wilkerson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/littlebee/selectable-collection/issues"
+  },
+  "homepage": "https://github.com/littlebee/selectable-collection",
+  "devDependencies": {
+    "bumble-build": "^0.1.1"
+  },
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
