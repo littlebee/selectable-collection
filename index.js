@@ -1,5 +1,2 @@
-module.exports = {
+module.exports = require('./src/selectableCollection')
   
-  SelectableCollection: require('./src/selectableCollection')
-  
-}
