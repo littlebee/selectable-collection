@@ -1,6 +1,6 @@
 {
   "name": "selectable-collection",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "A lightweight mixin for Backbone.js collections that provides single and multi model selection",
   "main": "index.js",
   "scripts": {
