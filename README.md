@@ -20,6 +20,6 @@ example:
   kittensCollection.selectModelByIndex(0)
   ...
 ```
-See our [api docs](TODO: link to github io pages) for more information on the events and methods added to the collection.
+See our [api docs](http://littlebee.github.io/selectable-collection/docs/api) for more information on the events and methods added to the collection.
 
 

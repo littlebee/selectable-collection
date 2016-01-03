@@ -94,7 +94,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	    example:
 	    ```javascript
 	      kittensCollection = new Backbone.Collection()
-	      SelectableCollection.mixInto(kittensCollection)
+	      SelectableCollection.applyTo(kittensCollection)
 	    ```
 	   */
 
