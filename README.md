@@ -1,4 +1,5 @@
-# selectable-collection
+# SelectableCollection
+
 A lightweight mixin for Backbone.js collections that provides single and multi model selection 
 
 This collection instance mixin provides the ability to mark models as selected and active.
@@ -10,7 +11,7 @@ support having active model that is not selected.  Calling setActiveModel on an 
 example:
 ```javascript
   kittensCollection = new Backbone.Collection()
-  SelectableCollection.mixInto(kittensCollection)
+  SelectableCollection.applyTo(kittensCollection)
   kittensCollection.onSelectionsChanged(function(){
     alert("you selected " + kittensCollection.getSelectedModels().length + " kittens")
   })
@@ -19,7 +20,6 @@ example:
   kittensCollection.selectModelByIndex(0)
   ...
 ```
-
 See our [api docs](TODO: link to github io pages) for more information on the events and methods added to the collection.
 
 
