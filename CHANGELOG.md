@@ -1,3 +1,6 @@
+## [0.3.1](https://github.com/littlebee/selectable-collection.git/compare/0.3.0...0.3.1) (2017-06-18)
+removed compiled files from git
+
 ## [0.3.0](https://github.com/littlebee/selectable-collection.git/compare/0.0.0...0.3.0) (2017-06-18)
 UMD portability release
 
