@@ -1,3 +1,3 @@
 
-module.exports = require('./src/selectableCollection')
+module.exports = require('./lib/selectableCollection')
   
